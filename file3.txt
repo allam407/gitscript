@@ -1,0 +1,5 @@
+Hi
+ls -l is used to show the file permission list
+ls -a is used to show the hidden file list
+ls -t is used to show last modified time list
+ls -u is used to show the last access file time list
